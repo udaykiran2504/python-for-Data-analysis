@@ -1,0 +1,54 @@
+# Python for Data Analysis - Learning Summary
+
+## Overview
+This document summarizes my learning journey in Python for Data Analysis, covering essential topics and practical applications.
+
+## Topics Covered
+
+### 1. **Introduction to Python for Data Analysis**
+- Basics of Python programming
+- Setting up the environment (Jupyter Notebook, VS Code, Anaconda)
+- Working with Python libraries for data analysis
+
+### 2. **Data Handling with Pandas and NumPy**
+- Creating and manipulating DataFrames and Series
+- Importing and exporting data (CSV, Excel, JSON, SQL)
+- Data cleaning: handling missing values, duplicates, and transformations
+- Indexing, slicing, and filtering data
+
+### 3. **Data Visualization**
+- Plotting with Matplotlib
+- Advanced visualizations with Seaborn
+- Interactive plots using Plotly
+- Customizing and styling charts
+
+### 4. **Exploratory Data Analysis (EDA)**
+- Descriptive statistics (mean, median, mode, standard deviation)
+- Data distribution analysis
+- Correlation and relationships between variables
+- Feature engineering and transformation
+
+### 5. **Statistical Analysis & Hypothesis Testing**
+- Probability distributions
+- T-tests, ANOVA, Chi-square tests
+- Regression analysis
+
+### 6. **Working with Large Datasets**
+- Optimizing Pandas performance
+- Handling big data with Dask and PySpark
+
+### 7. **Machine Learning Basics**
+- Introduction to Scikit-learn
+- Supervised vs. Unsupervised Learning
+- Implementing regression and classification models
+
+### 8. **Automating Data Analysis Tasks**
+- Using Python scripts for automated reporting
+- Data pipelines and workflow automation
+
+## Conclusion
+This learning journey has equipped me with a solid foundation in data analysis using Python. I plan to further explore advanced machine learning, data engineering, and cloud-based analytics.
+
+---
+For further study, I aim to work on real-world projects and contribute to open-source data science initiatives.
+
